@@ -1,6 +1,4 @@
-# Iguazio Resource Hub
-
-## Table of Contents
+## Iguazio Resource Hub
 * TOC
 {:toc}
 
