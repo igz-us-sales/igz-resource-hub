@@ -2,7 +2,7 @@
 * TOC
 {:toc}
 
-# Best Practices
+## Best Practices
 ### Overview
 - MLRun vs Nuclio
 - General Project Organization and Directory Structure
