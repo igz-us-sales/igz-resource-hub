@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
+name: Iguazio Resource Hub
 title: Iguazio Resource Hub
 
 plugins:
