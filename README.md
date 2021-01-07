@@ -1,3 +1,3 @@
 # Iguazio Resource Hub
 
-Link
+[https://igz-us-sales.github.io/igz-resource-hub/](https://igz-us-sales.github.io/igz-resource-hub/)
