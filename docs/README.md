@@ -38,11 +38,9 @@
 
 ### Platform Deployment    
 - Overview
-    - Python to MLRun Example
-        - Execute Python code on Iguazio cluster via MLRun
-    - Kubeflow Pipeline Example
-        - Execute pipeline made up of several Python scripts on Igauzio cluster via MLRun
-- Link: [WIP](#)
+    - Horovod Example
+        - Execute distributed training job on Iguazio cluster via MLRun and Horovod
+- Link: [https://github.com/igz-us-sales/igz-platform-deployment](https://github.com/igz-us-sales/igz-platform-deployment)
 
 ## Official Documentation
 ### MLRun
